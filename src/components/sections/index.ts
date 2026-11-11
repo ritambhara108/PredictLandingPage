@@ -1,0 +1,10 @@
+export { HeroSection } from "./hero-section";
+export { HeroPhoneNotifications } from "./hero-phone-notifications";
+export { AboutDeviceShowcase } from "./about-device-showcase";
+export { AboutDashboardScreen } from "./about-dashboard-screen";
+export { AboutSection } from "./about-section";
+export { PredictionSection } from "./prediction-section";
+export { HowItWorksSection } from "./how-it-works-section";
+export { ComparisonSection } from "./comparison-section";
+export { CtaSection } from "./cta-section";
+export { FooterSection } from "./footer-section";
